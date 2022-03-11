@@ -27,7 +27,8 @@
 2. penjualan perbulan
 
 ### karyawan
-1. eca (chef)
-2. abi (chef)
-3. ela (kasir)
-4. edo (kasir)
+1. eda (manager)
+2. eca (eca)
+3. abi (chef)
+4. ela (kasir)
+5. edo (kasir)
