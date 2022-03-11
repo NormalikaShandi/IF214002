@@ -7,29 +7,30 @@
 
 ## Entitas dan Atribut
 ### Bahan baku
-1. tepung
-2. Gula
-3. margarin
-4. ragi
-5. pengembang kue
-6. coklat bubuk
-7. coklat batang
-8. dll..
+1. id
+2. tepung
+3. Gula
+4. margarin
+5. ragi
+6. pengembang kue
+7. coklat bubuk
+8. coklat batang
+9. dll..
 
 ### Alat
-1. oven
-2. cetakan
-3. mixer
-4. dll.
+1. id
+2. oven
+3. cetakan
+4. mixer
+5. dll.
 
 ### laporan penjualan
-1. penjualan dalam perhari
-2. stok awal
-3. stok akhir
+1. id
+2. penjualan dalam perhari
+3. stok awal
+4. stok akhir
 
 ### karyawan
-1. eda (manager)
-2. eca (eca)
-3. abi (chef)
-4. ela (kasir)
-5. edo (kasir)
+1. id
+2. nama
+3. posisi
