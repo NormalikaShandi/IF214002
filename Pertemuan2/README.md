@@ -17,3 +17,17 @@
 8. dll..
 
 ### Alat
+1. oven
+2. cetakan
+3. mixer
+4. dll.
+
+### laporan penjualan
+1. penjualan dalan perhari
+2. penjualan perbulan
+
+### karyawan
+1. eca (chef)
+2. abi (chef)
+3. ela (kasir)
+4. edo (kasir)
