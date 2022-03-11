@@ -3,7 +3,6 @@
 1. Membuat solusi(sistem) untuk penyediaan penyimpanan bahan baku roti
 2. Membuat sistem laporan penjualan 
 3. membuat sistem ketersediaan alat masak, dan keperluan toko
-4. data karyawan
 
 ## Entitas dan Atribut
 ### Bahan baku
@@ -29,8 +28,3 @@
 2. penjualan dalam perhari
 3. stok awal
 4. stok akhir
-
-### karyawan
-1. id
-2. nama
-3. posisi
