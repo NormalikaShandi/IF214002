@@ -1,7 +1,7 @@
 # IDE SOLUSI: TOKO ROTI
 ## Deskripsi
 1. Membuat solusi(sistem) untuk penyediaan penyimpanan bahan baku roti
-2. Membuat sistem laporan penjualan perhari dan perbulan
+2. Membuat sistem laporan penjualan 
 3. membuat sistem ketersediaan alat masak, dan keperluan toko
 4. data karyawan
 
@@ -23,8 +23,9 @@
 4. dll.
 
 ### laporan penjualan
-1. penjualan dalan perhari
-2. penjualan perbulan
+1. penjualan dalam perhari
+2. stok awal
+3. stok akhir
 
 ### karyawan
 1. eda (manager)
