@@ -36,6 +36,14 @@ Di era teknologi seperti sekarang ini banyak toko-toko online yang menjual berba
 -	Alamat
 -	No telpon
 
+### Kurir
+
+-	\* id kurir
+-	Nama
+-	Jenis kelamin
+-	Alamat
+-	No telpon
+
 ### Transaksi
 
 -	\* No Transaksi
