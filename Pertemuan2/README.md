@@ -1,5 +1,6 @@
 # IDE: MEMBUAT TOKO ONLINE YANG MENJUAL KERAMIK
 
+![Diagram](file:///C:/Users/lubis/Downloads/Untitled%20Diagram.drawio%20-%20diagrams.net%20(2).png)
 ## Deskripsi
 
 Di era teknologi seperti sekarang ini banyak toko-toko online yang menjual berbagai macam barang dan keperluan sehari hari. Dengan ini saya memunculkan ide membuat aplikasi untuk toko online yang menjual keramik. Aplikasi ini menyediakan berbagai model, motif dan warna keramik. Dan took ini menyediakan system pengiriman ekspedisi sendiri.
