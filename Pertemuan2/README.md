@@ -1,5 +1,5 @@
 # IDE: MEMBUAT TOKO ONLINE YANG MENJUAL KERAMIK
-![alt text](https://github.com/NormalikaShandi/Pertemuan2/blob/README.md/image.jpg?raw=true)
+![alt text](https://github.com/NormalikaShandi/Pertemuan2/blob/README.md/Untitled%20Diagram.drawio%20-%20diagrams.net%20(2).png?raw=true)
 ![Diagram](Http/Untitled%20Diagram.drawio%20-%20diagrams.net%20(2).png)
 ## Deskripsi
 
