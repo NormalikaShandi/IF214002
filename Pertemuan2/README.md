@@ -1,18 +1,18 @@
-#IDE: MEMBUAT TOKO ONLINE YANG MENJUAL KERAMIK
+# IDE: MEMBUAT TOKO ONLINE YANG MENJUAL KERAMIK
 
-##Deskripsi
+## Deskripsi
 
 Di era teknologi seperti sekarang ini banyak toko-toko online yang menjual berbagai macam barang dan keperluan sehari hari. Dengan ini saya memunculkan ide membuat aplikasi untuk toko online yang menjual keramik. Aplikasi ini menyediakan berbagai model, motif dan warna keramik. Dan took ini menyediakan system pengiriman ekspedisi sendiri.
 
-##Fitur
+## Fitur
 
 1.	Pembeli dapat memilih berbagai model, motif dan warna keramik
 2.	Pembeli dapat melakukan proses transaksi pembelian dengan penjual.
 3.	Penjual mengirim keramiik 
 
-##Entitas dan Atribut
+## Entitas dan Atribut
 
-###Barang
+### Barang
 
 -	\* id barang
 -	Nama barang
@@ -21,14 +21,14 @@ Di era teknologi seperti sekarang ini banyak toko-toko online yang menjual berba
 -	Jumlah barang
 -	Stok barang
 
-###Pembeli
+### Pembeli
 
 -	\* id pembeli
 -	Nama
 -	Alamat
 -	No telpon
 
-###Karyawan
+### Karyawan
 
 -	\* id karyawan
 -	Nama
@@ -36,7 +36,7 @@ Di era teknologi seperti sekarang ini banyak toko-toko online yang menjual berba
 -	Alamat
 -	No telpon
 
-###Transaksi
+### Transaksi
 
 -	\* No Transaksi
 -	\* id pelanggan
