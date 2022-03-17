@@ -45,3 +45,9 @@ Di era teknologi seperti sekarang ini banyak toko-toko online yang menjual berba
 -	Tanggal transaksi
 -	Total harga
 
+### Pengiriman 
+-	\* id kurir 
+-	\* id pelanggan
+-	\* id barang
+-	\* id transaksi
+-	Alamat
