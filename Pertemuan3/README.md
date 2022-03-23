@@ -64,6 +64,8 @@ Di era teknologi seperti sekarang ini banyak toko-toko online yang menjual berba
 ## RELATIONSHIP
 - Pembeli 1 1 - 1 N Barang
 - Pembeli 1 1 - 1 N Transaksi
-- Pembeli 1 1 - 1 1 Karyawan
-- Pembeli 1 1 - 1 1 Kurir
+- Karyawan 1 1 - 1 1 Pembeli
+- Barang 1 1 - 1 N Transaksi 
+- Karyawan 1 1 - 1 N Transaksi  
+- Kurir 1 1 - 1 N Transaksi
 - 
