@@ -65,7 +65,8 @@ Di era teknologi seperti sekarang ini banyak toko-toko online yang menjual berba
 - Pembeli 1 1 - 1 N Barang
 - Pembeli 1 1 - 1 N Transaksi
 - Karyawan 1 1 - 1 1 Pembeli
-- Barang 1 1 - 1 N Transaksi 
-- Karyawan 1 1 - 1 N Transaksi  
-- Kurir 1 1 - 1 N Transaksi
+- Barang 1 N - 1 N Transaksi 
+- Karyawan 1 1 - 1 N Transaksi
+- Transaksi 1 N - 1 N Pengiriman  
+- Kurir 1 1 - 1 N Pengiriman
 - 
