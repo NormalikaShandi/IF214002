@@ -1,4 +1,4 @@
-![Tambah Data](https://github.com/NormalikaShandi/PBO_E/blob/main/Screenshot%20(746).png "Tambah Data")
+![Tambah Data](https://github.com/NormalikaShandi/IF214002/blob/main/Pertemuan4/img/Screenshot%20(746).png "Tambah Data")
 
 
 # IDE: MEMBUAT TOKO ONLINE YANG MENJUAL KERAMIK
