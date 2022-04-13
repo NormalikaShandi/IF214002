@@ -1,3 +1,6 @@
+#### DIAGRAM ERD
+![Tambah Data](https://github.com/NormalikaShandi/IF214002/blob/main/Pertemuan6/img%20draw.io/Screenshot%20(748).png "Tambah Data")
+
 ## NORMALISASI
 
 ### Normalilasi Bentuk ke-1
