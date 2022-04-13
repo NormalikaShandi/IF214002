@@ -1,5 +1,5 @@
 #### DIAGRAM ERD
-![Tambah Data](https://github.com/NormalikaShandi/IF214002/blob/main/Pertemuan6/img%20draw.io/Screenshot%20(748).png "Tambah Data")
+![Tambah Data](https://github.com/NormalikaShandi/IF214002/blob/main/Pertemuan6/img%20draw.io/Screenshot%20(749).png "Tambah Data")
 
 # Normalisasi
 - Normalisasi bentuk ke 1
