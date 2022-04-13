@@ -56,3 +56,9 @@
 |4|7|35|1|50000|
 |8|9|43|1|45000|
 |8|9|43|1|120000|
+
+#### Tabel Pengiriman
+|🔑id_pengiriman|id_kurir|id_transaksi|alamat_pembeli|
+|---|---|---|---|
+|66|3|25|jalan pete no 90|
+|54|6|4|jalan kacang no 5|
