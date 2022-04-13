@@ -1,4 +1,4 @@
-'''
+```
 CREATE TABLE pembeli (
   id_pembeli INT(10),
   nama_pembeli VARCHAR(20),
@@ -51,4 +51,4 @@ CREATE TABLE pengiriman (
   jumlah_barang INT(100),
   alamat_pembeli VARCHAR(100)
   );  
-  '''
+```
