@@ -1,5 +1,5 @@
 # Pertemuan4
-### Status : Belum dikerjakan
+### catatan
 - id_karyawan di Transaksi ditambahkan petunjuk tambahan terkait role karyawan di Transaksi tersebut, misal id_karyawan_yang_menyetujui
 - antara Transaksi dengan Pengiriman ini M:M
 - 1 Transaksi bisa lebih dari 1 barang
