@@ -16,3 +16,5 @@
 
 - Diagram ERD
 ![Tambah Data](https://github.com/NormalikaShandi/IF214002/blob/main/Pertemuan7/QUIZ/img/Screenshot%20(750).png "Tambah Data")
+#### noted 
+sqlnya belum pak saya ada kelas lain dijam 9
