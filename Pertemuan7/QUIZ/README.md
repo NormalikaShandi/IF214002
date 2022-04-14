@@ -14,3 +14,5 @@
   - kasus korupsi dari tahun ketahun
   - lagu terpopuler 
 
+- Diagram ERD
+![Tambah Data](https://github.com/NormalikaShandi/IF214002/blob/main/Pertemuan7/QUIZ/img/Screenshot%20(750).png "Tambah Data")
