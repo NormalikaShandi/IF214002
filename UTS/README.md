@@ -43,4 +43,5 @@ FITUR-FITUR
 - Diagram ERD notasi Chen / Flowchart
 ![Tambah Data](https://github.com/NormalikaShandi/IF214002/blob/main/UTS/img/Screenshot%20(756).png "Tambah Data")
 
-
+- Diagram ERD notasi Crow foot
+![Tambah Data](https://github.com/NormalikaShandi/IF214002/blob/main/UTS/img/Screenshot%20(757).png "Tambah Data")
