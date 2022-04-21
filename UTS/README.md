@@ -40,5 +40,7 @@ FITUR-FITUR
 2.	Pembeli dapat melakukan proses transaksi pembelian dengan penjual
 3.	Penjual dapat mengirim keramik melalui pengiriman dari toko
 
+- Diagram ERD notasi Chen / Flowchart
+![Tambah Data](https://github.com/NormalikaShandi/IF214002/blob/main/UTS/img/Screenshot%20(756).png "Tambah Data")
 
 
