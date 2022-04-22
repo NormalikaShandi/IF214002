@@ -1,3 +1,8 @@
+# UTS PRAKTIKUM BASIS DATA
+Nama  : Normalika Shandi
+NIM   : 1207050091
+
+## Jawaban NO.1
 #### 1. Data Control Language (DCL)
 Sesuai namanya, perintah dasar DCL berfungsi untuk mengatur hak akses apa saja dari setiap pengguna, seperti database, tabel maupun field di dalamnya. Dengan adanya pengaturan ini, akses pengguna dapat dibatasi sehingga admin bisa menjaga keamanan database. Ada dua jenis perintah DCL, yaitu :
 
