@@ -28,4 +28,5 @@ Perintah dasar satu ini digunakan untuk mengolah data dan memanipulasi data dala
 - DELETE : untuk menghapus data dalam tabel. Contoh penulisan query ini DELETE FROM … WHERE nama = ‘…’;
 
 ## Jawaban NO.2
+ada di folder sql.md
 ![Tambah Data](https://github.com/NormalikaShandi/IF214002/blob/main/UTS/Praktikum/table%20sqliteonline.png "Tambah Data")
