@@ -26,3 +26,6 @@ Perintah dasar satu ini digunakan untuk mengolah data dan memanipulasi data dala
 - INSERT : untuk memperbaharui data dengan menambahkan suatu informasi baru dalam tabel atau database. Contoh penulisan query ini INSERT INTO nama_tabel (nama_field);
 - UPDATE : Digunakan ketika admin database ingin memperbaharui data lama menjadi data terbaru. Contoh penulisan query ini UPDATE nama_tabel;
 - DELETE : untuk menghapus data dalam tabel. Contoh penulisan query ini DELETE FROM … WHERE nama = ‘…’;
+
+## Jawaban NO.2
+![Tambah Data](https://github.com/NormalikaShandi/IF214002/blob/main/UTS/Praktikum/table%20sqliteonline.png "Tambah Data")
