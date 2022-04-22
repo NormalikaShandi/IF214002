@@ -39,8 +39,8 @@ CREATE TABLE transaksi (
   tanggal_transaksi DATE,
   status_pembayaran VARCHAR(10),
   PRIMARY KEY(id_transaksi),
-  FOREIGN KEY(id_pembeli),
-  FOREIGN KEY(id_karyawan_yang_menyetujui)
+  CONSTRAINT id_karyawan_yang_menyetujui FOREIGN KEY (`id_karyawan_yang_menyetujui`) REFERENCES `karyawan` (`id_karyawan`),
+  CONSTRAINT id_pembeli FOREIGN KEY (`id_pembeli`) REFERENCES `pembeli` (`id_pembeli`)
   );  
   
 CREATE TABLE item_transaksi (
@@ -50,8 +50,8 @@ CREATE TABLE item_transaksi (
   jumlah_barang INT(100),
   harga_setiap_barang INT(10),
   PRIMARY KEY(id_item_transaksi),
-  FOREIGN KEY(id_transaksi),
-  FOREIGN KEY(id_barang)
+  CONSTRAINT id_transaksi FOREIGN KEY (`id_transaksi`) REFERENCES `transaksi` (`id_transaksi`),
+  CONSTRAINT id_barang FOREIGN KEY (`id_barang`) REFERENCES `barang` (`id_barang`)
   );  
   
 CREATE TABLE pengiriman (
@@ -61,8 +61,8 @@ CREATE TABLE pengiriman (
   jumlah_barang INT(100),
   alamat_pembeli VARCHAR(100),
   PRIMARY KEY(id_pengiriman),
-  FOREIGN KEY(id_kurir),
-  FOREIGN KEY(id_transaksi)
+  CONSTRAINT id_transaksi FOREIGN KEY (`id_transaksi`) REFERENCES `transaksi` (`id_transaksi`),
+  CONSTRAINT id_kurir FOREIGN KEY (`id_kurir`) REFERENCES `kurir` (`id_kurir`)
   );  
 ```
 
