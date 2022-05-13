@@ -10,5 +10,5 @@
 - Buat query untuk mencari penduduk berusia diatas 25 tahun yang berada di kabupaten 3204 dari [data ini](https://github.com/insanalamin/IF214002/blob/main/pertemuan10/penduduk.sql)
 
  ``` sql
-   SELECT YEAR(CURRENT()) YEAR(tanggal_lahir) AS usia FROM penduduk WHERE usia > 25 && kode_kabupaten = 3204 ;
+   SELECT YEAR(CURDATE())-YEAR(tanggal_lahir) AS usia FROM penduduk WHERE usia > 25 && kode_kabupaten = 3204 ;
  ```
