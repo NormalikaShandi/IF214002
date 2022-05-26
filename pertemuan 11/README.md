@@ -81,3 +81,9 @@ INSERT INTO item_transaksi (id_item_transaksi, id_transaksi, id_barang, jumlah_b
 
 INSERT INTO pengiriman (id_pengiriman, id_kurir, id_transaksi, jumlah_barang, alamat_pembeli) VALUES (11121,"12231","10011","2","Jalan Apel no. 10")
 ```
+
+## DQL
+- SELECT
+```sql
+SELECT * FROM transaksi WHERE id_pengguna=10231
+```
