@@ -12,9 +12,9 @@
 
 2.  - perkembangan penjualan : bar chart , data= jumlah keramik terjual, bulan, tahun
     - contoh visualisasi datanya
-    ![Tambah Data](https://github.com/NormalikaShandi/IF214002/blob/main/pertemuan%2014/img/bar%20chart%20penjualan.png "Tambah Data")
+    -![Tambah Data](https://github.com/NormalikaShandi/IF214002/blob/main/pertemuan%2014/img/bar%20chart%20penjualan.png "Tambah Data")
     
     - penjualan keramik : pie chart , data= id keramik, jumlah terjual, bulan
     - komplain pembeli : pie chart, kategori komplain (barang, sikap dan respon kurir/karyawan), bulan, tahun.
     - contoh visualisasi datanya
-    ![Tambah Data](https://github.com/NormalikaShandi/IF214002/blob/main/pertemuan%2014/img/Contoh%202%20grafik%20pie.JPG "Tambah Data")
+    -![Tambah Data](https://github.com/NormalikaShandi/IF214002/blob/main/pertemuan%2014/img/Contoh%202%20grafik%20pie.JPG "Tambah Data")
