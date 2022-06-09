@@ -7,6 +7,9 @@
 
 ### JAWAB
 1.  - perkembangan penjualan perbulan
-      - diambil dari data "transaksi" perbulan
-    - penjualan keramik terbanyak perbulan
-      -  wwf  
+    - penjualan keramik terbanyak/terlaris perbulan
+    - komplain pembeli
+
+2.  - perkembangan penjualan : bar chart , data= jumlah keramik terjual, bulan, tahun
+    - penjualan keramik : pie chart , data= id keramik, jumlah terjual, bulan
+    - komplain pembeli : pie chart, kategori komplain (barang, sikap dan respon kurir/karyawan), bulan, tahun.
