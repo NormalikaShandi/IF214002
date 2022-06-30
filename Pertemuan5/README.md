@@ -1,5 +1,3 @@
-![Tambah Data](https://github.com/NormalikaShandi/IF214002/blob/main/Pertemuan5/img/Screenshot%20(747).png "Tambah Data")
-
 
 # IDE: MEMBUAT TOKO ONLINE YANG MENJUAL KERAMIK
 
